@@ -1,5 +1,15 @@
 # steppir-mods
 
+Page for ideas around field use of the BigIR/LittleIR
+
+![img](/img/SmallIR.jpeg)
+
+Shown without 30 and 40m fiberglass top-end
+
+![img](/img/PortableIR.jpeg)
+
+Shown all packaged up, BigIR, Tripod Base, SDR100, Coax, Cat5. Tripod is using a goverment surplus/hybrid system.
+
 ## SDA-100 Portable Operations
 ![img](img/sdr-10012v.jpg)
 
